@@ -1,0 +1,28 @@
+{
+  "name": "Fazznet3/fazz-first",
+  "version": "1.2.0",
+  "description": "it's about calculate Math",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fazznet3/first_npm.git"
+  },
+  "keywords": [
+    "power",
+    "Math",
+    "2",
+    "exponential"
+  ],
+  "author": "Fazznet3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fazznet3/first_npm/issues"
+  },
+  "homepage": "https://github.com/Fazznet3/first_npm#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
